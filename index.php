@@ -28,8 +28,10 @@
                 <img src="img/stick_0.png" class="manImg" id="hangImg">
             </div>
             
-            <br> Words Guessed: <br>
+            <div id="guesses">
+                Words Guessed: <br>
             <div id = "guessed"> <br> </div>
+            </div>
         
             <div id="won">
                 <h2>You Won!</h2>
